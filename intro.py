@@ -2,4 +2,4 @@ import sys
 print(sys.path)
 print("Hello World!")
 
-print("Creating a merge conflict")
+print("Creating a Merge Conflict")
