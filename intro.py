@@ -9,3 +9,5 @@ print("Creating a Second Merge Conflict")
 print("Trying the revert commit option")
 
 print("On temp branch")
+
+print("Changes done on GitHub on the temp branch"
