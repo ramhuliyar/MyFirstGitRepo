@@ -1,6 +1,7 @@
 import sys
 print(sys.path)
 print("Hello Earth!")
+print("Hello Universe!")
 
 print("Creating a Merge Conflict")
 print("Creating a Second Merge Conflict")
