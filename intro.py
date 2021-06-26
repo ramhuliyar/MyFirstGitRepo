@@ -14,3 +14,6 @@ print("On temp branch")
 print("Changes done on GitHub on the temp branch")
 
 print("Branch done on GitHub on the temp branch")
+
+print("Revert with files in working directory")
+
